@@ -1,6 +1,5 @@
 # CvGenerator
 
-🎯 El Problema que Resolvemos
 ❌ Aplicar a empleos es frustrante:
 
 📄 Mismo CV para todas las ofertas → Baja tasa de respuesta
